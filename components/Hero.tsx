@@ -24,15 +24,11 @@ export default function Hero() {
                 >
                     <div className="p-1 rounded-full bg-gradient-to-r from-blue-500 to-purple-500 relative w-32 h-32">
                         <Image
-                            src="/placeholder-avatar.jpg"
+                            src="/avatar.jpg"
                             alt="Profile"
                             fill
                             className="rounded-full border-4 border-black object-cover"
-                            hidden
                         />
-                        <div className="absolute inset-0 rounded-full bg-zinc-800 flex items-center justify-center text-3xl font-bold border-4 border-black">
-                            AL
-                        </div>
                     </div>
                 </motion.div>
 
