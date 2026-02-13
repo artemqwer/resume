@@ -56,7 +56,7 @@ export default function Hero() {
                     <Link href="mailto:lytvynartem58@gmail.com" className="p-4 bg-zinc-900 border border-zinc-800 rounded-full hover:bg-zinc-800 hover:border-zinc-700 transition-all hover:scale-110">
                         <Mail className="w-6 h-6 text-white" />
                     </Link>
-                    <Link href="https://t.me/chlyukura" target="_blank" className="p-4 bg-zinc-900 border border-zinc-800 rounded-full hover:bg-zinc-800 hover:border-zinc-700 transition-all hover:scale-110">
+                    <Link href="https://t.me/shiyukura" target="_blank" className="p-4 bg-zinc-900 border border-zinc-800 rounded-full hover:bg-zinc-800 hover:border-zinc-700 transition-all hover:scale-110">
                         <Send className="w-6 h-6 text-white" />
                     </Link>
                 </div>

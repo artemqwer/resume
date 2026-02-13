@@ -32,7 +32,7 @@ export default function Contact() {
                     <Link href="https://github.com/artemqwer" target="_blank" className="text-gray-400 hover:text-white transition-colors">
                         <Github className="w-6 h-6" />
                     </Link>
-                    <Link href="https://t.me/chlyukura" target="_blank" className="text-gray-400 hover:text-white transition-colors">
+                    <Link href="https://t.me/shiyukura" target="_blank" className="text-gray-400 hover:text-white transition-colors">
                         <Send className="w-6 h-6" />
                     </Link>
                     <Link href="mailto:lytvynartem58@gmail.com" className="text-gray-400 hover:text-white transition-colors">
